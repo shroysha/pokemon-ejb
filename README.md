@@ -5,4 +5,4 @@
 Shared components of pokemon
 
 ### Tags
-[Groovy]
+[Groovy, Spring Boot EJB]
